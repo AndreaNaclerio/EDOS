@@ -1,8 +1,6 @@
 # NLP PROJECT
-
 Project of NLP course at Politecnico di Milano
 #
-
 The project aimed to train a proper model to generate responses in the dialogue that respect the target emotion, but also sentiment analysis: i.e.
 to identify the emotion associated with each utterance in the dialogue. 
 
